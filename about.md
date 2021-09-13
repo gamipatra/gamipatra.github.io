@@ -5,18 +5,18 @@ permalink: /about/
 published: true
 ---
 
-Hellooo~ My name is Hannah! I am a current 1st year student at RMIT studying in Vientam!
+# Hellooo~ My name is Hannah, but please call me Ash!  I am a current 1st year student at RMIT studying in Vientam!
 
-	This is a GitHub website I created as part of my Introduction to Science and Technology course!
+## This is a GitHub website I created as part of my Introduction to Science and Technology course!
 
 
 
-## ☀️ If you'd like to know more about me ☀️
+### ☀️ If you'd like to know more about me ☀️
 
 **🤫 2 truths and 1 lie:**
 - I have 3 nationalities 🇦🇺🇵🇭🇬🇧
 - I have 5 siblings! 👦👦👦👦👦
-- I've lived in 6 countries for 1+ years!🛫
+- I've lived in 6 countries for atleast 1+ years at a time!🛫
 
 
 **🤗 What I like to do:**
