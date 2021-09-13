@@ -1,0 +1,9 @@
+---
+published: true
+---
+## A New Post
+
+Journal 3: Bla bla balaaaa
+
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
