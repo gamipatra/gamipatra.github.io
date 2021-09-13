@@ -4,8 +4,9 @@ title: Hannah Montoya
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+# Welcome to Hannah's blog!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![]({{site.baseurl}}/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tenstickers-saudiarabia.com%2Fstickers%2Fminimalist-welcome-text-sticker-14323&psig=AOvVaw1gCUgxHmrzRREun2iESB1O&ust=1631631770532000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMC_y5Wc_PICFQAAAAAdAAAAABAD)
+## Hi! This is my first public blog using GitHub & Jekyll ~ Welcome!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+	Here I write out my 4 Journal entries on my adventure into Science and Technology, specifically Psychology! 
