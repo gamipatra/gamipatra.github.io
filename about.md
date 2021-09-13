@@ -11,7 +11,7 @@ published: true
 
 
 
-### ☀️ If you'd like to know more about me ☀️
+**## ☀️ If you'd like to know more about me ☀️**
 
 **🤫 2 truths and 1 lie:**
 - I have 3 nationalities 🇦🇺🇵🇭🇬🇧
