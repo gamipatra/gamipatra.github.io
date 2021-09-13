@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Hannah Montoya
+title: Welcome to Hannah's blog!
 published: true
 ---
 
-# Welcome to Hannah's blog!
-   ## My adventure into Science and Technology: The Written Form
+# My adventure into Science and Technology: The Written Form
 
 ### Journal Entry #1
 ### Journal Entry #2
