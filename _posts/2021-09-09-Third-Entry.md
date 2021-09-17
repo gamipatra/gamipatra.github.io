@@ -1,7 +1,7 @@
 ---
 published: true
 ---
- ## Entry #3: Art opportunity turned explorative learning experience    
+Entry #3: Art opportunity turned explorative learning experience    
 
 ####  3/09/2021
 __________________________________________________________________________________________
