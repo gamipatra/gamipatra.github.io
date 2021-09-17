@@ -1,7 +1,7 @@
 ---
 published: true
 ---
- ## Learning GitHub, applying old skills   
+Learning GitHub, applying old skills   
 
 #### 03/09/2021
 __________________________________________________________________________________________
