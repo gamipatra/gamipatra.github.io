@@ -2,7 +2,7 @@
 published: true
 ---
 
- ## Entry #4: The challenges of a balancing act and discovered diagnoses
+Entry #4: The challenges of a balancing act and discovered diagnoses
 #### 17/09/2021
 __________________________________________________________________________________________
 #### In 2018, I studied in Canada for a year in an undergraduate Industrial Design program. I maintained mixed grades, in some, I did excellently, and in others, not well. I realised that this was due to my inability to multi-task and prioritise. Beginning this semester at RMIT, I felt at ease with the course load and was able to learn to prioritise my subjects and began excelling in my course. A friend who had also attended the same undergraduate program in Canada told me about how she started a UX Design course that Google offers. This program would help my career, so I began attending it. However, I found that with my art course, my course work at RMIT, and now the UX Design course, the same problems that I faced in Canada began to surface. I realised that I have trouble managing too many things at once. I began to research why this was, why the stress of too many assessments made it difficult for me to begin and finish assignments. I didn’t understand this relationship and found myself dropping most of my courses, and procrastinating on my Assignment 1.
