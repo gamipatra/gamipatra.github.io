@@ -1,7 +1,7 @@
 ---
 published: true
 ---
- ## Entry 1: Mr Crellin, my new lecturer    
+Entry 1: Mr Crellin, my new lecturer    
 
 #### 27/08/2021
 __________________________________________________________________________________________
