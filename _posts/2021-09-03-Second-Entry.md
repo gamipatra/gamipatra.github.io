@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
  ## Learning GitHub, applying old skills   
 
@@ -8,5 +8,3 @@ ________________________________________________________________________________
 #### The Introduction to Science and Technology has quite a variety of students, studying engineering, IT, Psychology and other technical fields. As I am planning to study psychology, I found myself not taking much of an interest in other fields. However, for our Assignment 2, we had a session that discussed how to make a GitHub website, and how we could upload our Journal Entries there. In the beginning, I decided not to do that and focus on other tasks, but after the session on GitHub, I remembered that in high school I studied HTML and knew the basics of how a website works with code. Out of interest, I decided to look at a few video tutorials and found myself getting overwhelmed relatively quickly. However, I found one youtube video that gave a step-by-step tutorial on how to make a blog using GitHub. I painstakingly followed the tutorial, thinking nothing would come of it, however, as I began to understand how to use this software, I grew more motivated to make a blog website. That of which, you may be reading this on now! 
 
 #### This experience was quite valuable, often I would find myself thinking “if it doesn’t directly help with what I’m working towards, then it’s pointless” but I realised that I found it interesting and enjoyable, and this newfound basic interest could blossom into something significant in the future. It taught me to be open-minded and curious, to continue to explore different interests, even if it’s difficult at first. It helped me grow my confidence, albeit a small and simple thing, but it reinforced the belief that I am capable and I should continue to try challenging things. Using this experience as a learning lesson, I have decided to continue exploring my interests in things even if they aren’t directly related to what I’m doing. I plan to enrol in courses on Coursera or Domestika (two websites offering short term courses on a variety of topics) to develop my individual skills and see how these come together in the future. Overall, I am happy to have had this opportunity to reinforce my confidence and interests and will continue to apply myself in different fields whenever possible (i.e. Clubs/courses at RMIT/Online)
-
-
