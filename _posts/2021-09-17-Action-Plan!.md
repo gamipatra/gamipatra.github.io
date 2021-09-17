@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
  ## Action Plan: Future Goals 
 
@@ -8,5 +8,3 @@ ________________________________________________________________________________
 #### After discovering my ADHD, and soon to be starting treatment, I believe that my capabilities as a student will begin to exponentially grow. To ensure this, I plan to continue seeing my Psychiatrist to maintain the effects of medication and my reaction, prioritising my well being above all else, which can only benefit my experience as an RMIT student. I plan to attend therapy once a week to help me learn new coping skills, as well as seeing my psychiatrist every 2 weeks to manage and keep an eye on symptoms and development for my ADHD. I will also look at the resources available at RMIT for students with ADHD, to help me continue to give myself the best opportunity at excelling. I will first email RMIT connect to get advice, and then go from there.  Now that I have discovered the difficulties I may face moving forward, I have an idea of how to equip myself. 
 
 #### Now that I’ve learnt the importance of how interests can develop further into skills( through the GitHub and Art experience with my sister), I  will begin to make use of clubs once the campus reopens, in the meantime I will continue attending my courses, spending 3 hours on them every 2 days. Once I can join clubs it will be great to meet new people, socialise, and to learn new things through other people and more experiences. I believe this is a useful skill to learn how to manage and positive work-life balance, as well as reinforce the belief I am capable, and diminish doubts of my capability through the perseverance of clubs and new courses at RMIT. An actionable plan I will put into place is to 1) continue my courses on a regular basis, 2) take part in online clubs to socialise and learn to manage work-life balance, 3) continue regular checkups with psychiatrist and therapist, and 4) set a daily routine to ensure I finish assignments, readings, and other tasks in a timely manner to help avoid procrastination and stress and lastly, 5) I plan to socialise and learn as many new skills as possible through RMIT clubs, and I also plan to keep updated with RMIT events within the School of Science and Technology, after having developed better time management skills, I will participate in events whenever possible to build confidence, experience, and knowledge in the Science and Technology field.
-
-
