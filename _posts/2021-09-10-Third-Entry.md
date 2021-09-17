@@ -1,0 +1,13 @@
+---
+published: false
+---
+ ## Entry #3: Art opportunity turned explorative learning experience    
+
+####  3/09/2021
+__________________________________________________________________________________________
+#### Now that I knew I’d like to be a UX Researcher alongside the positive experience with developing interests (i.e. GitHub), I felt confident in trying something new. My sister has been talking to me for a few months about an ongoing project she wanted me to collaborate on. The project entailed drawing POC (People of Color) for a card game she was developing. I found the requirements of studying non-eurocentric beauty standards quite interesting and quickly began sketching as I tried to find a style suitable to her requirements. As I knew the art would eventually need to be colourized, I decided to enrol in a course on Domestika regarding learning to draw on Photoshop. After enrolling in this course, I felt I now had a starting point to develop my skills for online applications such as Photoshop, Adobe Illustrator, or sketch. Applications that may be useful when designing a portfolio in the future or having as a skill in your CV. I found that the content of the colour theory, placement in art, and overall design skills were very useful when I began designing my Assignment 1 presentation.
+
+
+####  I realised that The Science and Technology course was not only about the course content, it was also about teaching us how it’s important to be able to communicate effectively, whether that was information or in discussions. The design course I was taking helped me to develop an idea of how humans appeal to design, and how design is able to manipulate the effect on people, such as colour significance (i.e. red making us hungry), as well as what draws our attention the quickest (For making effective presentations). What began as a harmless course to learn how to draw on photoshop, blossomed into a deeper understanding of the psychology of design, that of which could be useful in marketing and my future dream job, a UX researcher. Being able to convey through design with a thorough understanding of the human mind can make communication clearer and simpler, of which is an important skill for a student, and as a researcher. I plan to continue this course, learning along the way, and thinking about how this new information can apply to what I’m doing and plan to do. 
+
+
